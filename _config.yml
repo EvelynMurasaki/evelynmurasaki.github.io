@@ -173,19 +173,19 @@ collections:
 
 hackthebox:
     output: true
-    permalink: /ctf/hackthebox/:collection/:path/
+    permalink: /ctf/hackthebox/:path/
 
-  tryhackme:
+tryhackme:
     output: true
-    permalink: /ctf/tryhackme/:collection/:path/
+    permalink: /ctf/tryhackme/:path/
 
-  pwntilldawn:
+pwntilldawn:
     output: true
-    permalink: /ctf/pwntilldawn/:collection/:path/
+    permalink: /ctf/pwntilldawn/:path/
 
-  provinggrounds:
+provinggrounds:
     output: true
-    permalink: /ctf/provinggrounds/:collection/:path/
+    permalink: /ctf/provinggrounds/:path/
 
 defaults:
   - scope:
