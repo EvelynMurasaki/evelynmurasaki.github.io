@@ -1,6 +1,7 @@
 ---
-title: "Escape Two - HTB Easy"
-date: 2025-01-19 10:00:00 -0300
-categories: [HackTheBox]
-tags: [easy, windows]
+title: "EscapeTwo — HackTheBox (Easy)"
+date: 2025-01-19
+categories: [CTF, HackTheBox, Easy]
+tags: [lfi, rce, privesc]
 ---
+Conteúdo...
