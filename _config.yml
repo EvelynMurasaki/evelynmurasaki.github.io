@@ -171,19 +171,19 @@ collections:
     output: true
     sort_by: order
 
-hackthebox:
+  hackthebox:
     output: true
     permalink: /ctf/hackthebox/:path/
 
-tryhackme:
+  tryhackme:
     output: true
     permalink: /ctf/tryhackme/:path/
 
-pwntilldawn:
+  pwntilldawn:
     output: true
     permalink: /ctf/pwntilldawn/:path/
 
-provinggrounds:
+  provinggrounds:
     output: true
     permalink: /ctf/provinggrounds/:path/
 
